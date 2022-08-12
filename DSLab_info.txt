@@ -1,0 +1,83 @@
+Al fine di avere una migliore esperianza ed usare la presentazione interattiva ecco qui il link: 
+
+https://view.genial.ly/6297363cb1412400119a92b8/presentation-digital-marketing-presentation
+
+
+Packages used for the project
+
+  install.packages('corrplot')
+  library(corrplot)
+
+  install.packages('gridExtra')
+  library(gridExtra)
+
+  install.packages('caret')
+  library(caret)
+
+  install.packages('MASS')
+  library(MASS)
+
+  install.packages('partykit')
+  library(partykit)
+
+  install.packages('h2o')
+  library(h2o)
+
+  install.packages('data.table')
+  library(data.table)
+
+  install.packages('randomForest')
+  library(randomForest)
+
+  install.packages('tidyverse')
+  library(tidyverse)
+
+  install.packages('Metrics')
+  library(Metrics)
+
+  install.packages('caTools')
+  library(caTools)
+
+  install.packages('smotefamily')
+  library(smotefamily)
+
+  install.packages('imbalance')
+  library(imbalance)
+
+  install.packages('ROSE')
+  library(ROSE)
+
+  install.packages('rpart')
+  library(rpart)
+
+  install.packages('pROC')
+  library(pROC)
+
+  install.packages('regclass')
+  library(regclass)
+
+  remotes::install_github("cran/DMwR")
+  library(DMwR)
+
+  install.packages('gbm')
+  library(gbm)
+
+library(dplyr)
+library(magrittr)
+library(ggplot2)
+library(forcats)
+library(lubridate)
+library(RQuantLib)
+
+install.packages("rfm")
+install.packages("descriptr")
+library(rfm)
+library(magrittr)
+library(dplyr)
+library(lubridate)
+
+
+install.packages("CLVTools")
+install.packages("devtools")
+
+library("CLVTools")
